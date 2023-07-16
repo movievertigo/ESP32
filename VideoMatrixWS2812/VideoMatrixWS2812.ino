@@ -1,3 +1,7 @@
+// By Movie Vertigo
+// https://youtube.com/movievertigo
+// https://twitter.com/movievertigo
+ 
 #include <esp_task_wdt.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>

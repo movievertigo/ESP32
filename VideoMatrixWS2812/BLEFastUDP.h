@@ -1,3 +1,7 @@
+// By Movie Vertigo
+// https://youtube.com/movievertigo
+// https://twitter.com/movievertigo
+ 
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLE2902.h>
